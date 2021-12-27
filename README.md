@@ -1,3 +1,8 @@
+# Sylenth
+## Shortcuts
+- Init: `cmd j`
+-
+
 # [How to make the Most Important Sounds in EDM (beginner synth tutorial)](https://www.youtube.com/watch?v=GmUYXWKNJMM)
 ## Saw Wave (any synth)
 1. Start with Saw
